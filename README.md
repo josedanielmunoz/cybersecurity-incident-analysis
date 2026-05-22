@@ -1,4 +1,4 @@
-# Cybersecurity Incident Analysis
+# Security Incident Response and Debian Server Hardering
 
 End-to-end cybersecurity project focused on the forensic investigation of an unauthorised SSH intrusion, vulnerability assessment of a Debian web server, post-incident hardening, and the design of an incident response plan aligned with recognised security frameworks.
 
