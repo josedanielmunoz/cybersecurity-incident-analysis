@@ -144,5 +144,4 @@ cybersecurity-incident-analysis/
 ├── Informe_Pentesting_JoseM.pdf       # Pentesting and vulnerability assessment report
 ├── Plan_Respuesta_JoseM.pdf           # Incident response plan and SGSI proposal
 ├── Presentacion_Ejecutiva_JoseM.pdf   # Executive summary presentation
-├── DiagramaRed_JoseM.pkt              # Network diagram / Packet Tracer file
 └── README.md
