@@ -140,8 +140,7 @@ Implemented controls included:
 ```text
 cybersecurity-incident-analysis/
 │
-├── Informe_Incidente_JoseM.pdf        # Forensic incident report
-├── Informe_Pentesting_JoseM.pdf       # Pentesting and vulnerability assessment report
-├── Plan_Respuesta_JoseM.pdf           # Incident response plan and SGSI proposal
-├── Presentacion_Ejecutiva_JoseM.pdf   # Executive summary presentation
+├── Informe_Incidente.pdf              # Forensic incident report
+├── Informe_Pentesting.pdf             # Pentesting and vulnerability assessment report
+├── Plan_Respuesta_Incidente.pdf       # Incident response plan and SGSI proposal
 └── README.md
