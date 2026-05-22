@@ -2,6 +2,8 @@
 
 End-to-end cybersecurity project focused on the forensic investigation of an unauthorised SSH intrusion, vulnerability assessment of a Debian web server, post-incident hardening, and the design of an incident response plan aligned with recognised security frameworks.
 
+> Note: The project reports are currently available in Spanish.
+
 ## Overview
 
 This repository documents a practical cybersecurity case study covering three main areas:
